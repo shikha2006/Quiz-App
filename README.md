@@ -4,6 +4,20 @@ Overview
 
 A fast and interactive quiz app built with React, Vite, HTML, CSS, and JavaScript. Test your knowledge and have fun!
 
+##Author
+
+||** Tranning project (Batch-2)**
+
+|| -**Shikha Tripathi**
+   - Roll Number: 23071003604
+     
+ || - **Saumya Dixit**
+   - Roll Number: 23071003586
+     
+ || - **Shafquat Umam**
+   - Roll Number: 23071003593
+
+
 
 Features
 
